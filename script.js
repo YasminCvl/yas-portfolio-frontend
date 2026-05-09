@@ -95,7 +95,7 @@ const PortfolioToolbox = () => {
       <footer id="contact" className="bg-zinc-950 p-10 border-t border-purple-900/30">
         <div className="max-w-5xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="font-mono text-sm text-purple-500">
-            <span className="text-green-500">➜</span> yasmin-silva ~ <span className="text-gray-500">contact.init()</span>
+            <span className="text-green-500">➜</span> yasmin-cvl ~ <span className="text-gray-500">contact.init()</span>
           </div>
           <div className="flex gap-6">
             <a href="#" className="hover:text-purple-500 transition">GitHub</a>
